@@ -1,0 +1,21 @@
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build output
+/bin/
+/dist/
+
+# Environment/secrets
+.env
+.env.*
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
